@@ -3,7 +3,7 @@
 // @name          Google中文
 // @description   强制google搜索更改成中文,脚本基于英文版https://openuserjs.org/scripts/fardjad/Google_in_English_PLEASE! 更改
 // @author        D.Young
-// @version       0.0.1
+// @version       0.0.2
 // @include       *://*.google.*
 // @grant         none
 // ==/UserScript==
